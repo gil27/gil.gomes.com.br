@@ -14,9 +14,9 @@ Today we're going through at the importance of  naming things. Let's dive into t
 
 ## Using Meaningless Names
 
-Reading code, naming methods, variables and classes is an art that differs
-men from boys. I'm terrible naming things. A friend once tweeted: "There are only
-two hard things in Computer Science: cache invalidation and naming things."
+Code reading, method/variable naming is difficult. It is an art that separates men from boys.
+
+A friend once tweeted:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p><a
 href="https://twitter.com/gil27">@gil27</a> &quot;There are only two hard things
@@ -26,8 +26,7 @@ href="https://twitter.com/jvrmaia/status/496358026446921728">August 4,
 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-When you are working on a project that you are the only developer, it is easy
-to use nameless variables: a, b, c, x, y, z. Those are terrible variables names.
+When you are working on a project that you are the only developer, it is easy to use nameless variables: a, b, c, x, y, z. Those are terrible variables names.
 
 Look at this example:
 {% highlight ruby %}
@@ -40,10 +39,7 @@ class StudentHelper
 end
 {% endhighlight %}
 
-This methods checks if a student 'A' is monitor for a course that student 'B' is
-doing. If so, display a link to contact student 'A'.
-Take a look again to the code, is it easy to read? Is it clear? I don't think
-so. How can we improve this code simply renaming things?
+This methods checks if a student 'A' is monitor for a course that student 'B' is doing. If so, display a link to contact student 'A'. Take a look again to the code, is it easy to read? Is it clear? I don't think so. How can we improve this code just renaming things?
 
 The first step is renaming the helper method name and its variables
 {% highlight ruby %}
@@ -78,9 +74,7 @@ class Student
 end
 {% endhighlight %}
 
-I can going through this renaming thing all day for hours. But can you get the
-point here? We are making easy to kids becomes men. Probably the final result
-will be something like that:
+We can keep renaming all day long. But it will became a big refactoring. For today it is fine to stop here. We just made simple to kids becomes men. Probably the final result will be something like that:
 
 {% highlight ruby %}
 class StudentHelper
@@ -100,16 +94,9 @@ class StudentHelper
 end
 {% endhighlight %}
 
-The final message here is: always be assertive when naming things. If your
-method alerts you about lunch time, name it remember_lunch, or put it into a remeber
-class and call Remember.lunch_time.
-
-In the previous post we learnt a bunch of cool things, now we saw that renaming
-things can improve our code readbility and makes our life easier if we need to
-read code from another developer.
-
-I think we are getting the right mindset here, in the next few posts we going
-to see another little things that can improve our life :smiley:
+The final message is: "Always be assertive". If your method alerts you about lunch time than name it in a way that is easy to know its purpose.
+Today we saw that rename things properly can improve our code readability and makes our life easier.
+I think we got the right mindset here, in the next few posts we going to see another little things that can improve our life :smiley:
 
 And remember, always leave things better than you found them!
 
