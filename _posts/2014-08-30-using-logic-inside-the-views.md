@@ -3,6 +3,7 @@ layout: post
 title: "Using Logic Inside The Views"
 modified: 2014-08-30 19:25:06 -0300
 tags: [Ruby, Ruby on Rails]
+comments: true
 image:
   feature: abstract-3.jpg
   credit: dargadgetz

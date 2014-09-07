@@ -3,6 +3,7 @@ layout: post
 title: "Business Logic Outside Models"
 modified: 2014-08-23 16:20:18 -0300
 tags: [ruby on rails, ruby]
+comments: true
 image:
   feature: abstract-11.jpg
   credit: dargadgetz

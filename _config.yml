@@ -1,16 +1,15 @@
 title:            Gil Gomes
 description:      Speaking up my thoughts about the IT world.
-disqus_shortname: 
+disqus_shortname: gilgomes
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:               http://gilgomes.com.br
+url:              http://gilgomes.com.br
 
 # Owner/author information
 owner:
   name:           Gil Gomes
   avatar:         gil.JPG
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   bio:            "Bachelor in Information Systems. Speaking up my thoughts about the IT world."
   email:          gilgomesp@gmail.com
   # Social networking links used in footer. Update and remove as you like.
@@ -19,7 +18,7 @@ owner:
   github:         gil27
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      gilgomesp
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
