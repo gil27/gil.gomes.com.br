@@ -1,13 +1,13 @@
 require "bundler/capistrano"
 require "rvm/capistrano"
 
-set :application, "gilgomes.com.br"
+set :application, "107.170.34.103"
 set :repository,  "git@github.com:gil27/gil.gomes.com.br.git"
 set :scm, :git
 
-role :web, "gilgomes.com.br"
-role :app, "gilgomes.com.br"
-role :db,  "gilgomes.com.br", :primary => true
+role :web, "107.170.34.103"
+role :app, "107.170.34.103"
+role :db,  "107.170.34.103", :primary => true
 
 set :deploy_to, "/home/gil/gilgomes.com.br"
 set :user, "gil"
@@ -38,7 +38,7 @@ end
 $:.unshift(File.expand_path('./lib', ENV['rvm_path']))
 
 set :rvm_type, :user
-set :rvm_ruby_string, 'ruby-2.1.2'
+set :rvm_ruby_string, 'ruby-2.1.3'
 
 ssh_options[:forward_agent] = true
 default_run_options[:pty] = true
