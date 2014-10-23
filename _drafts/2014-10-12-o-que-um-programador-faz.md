@@ -21,4 +21,14 @@ Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas se
 
 - Eu chego no meu trabalho e programo. Utilizo uma linguagem de programação e técnicas de programação para desenvolver programas.
 
-Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever o que um programdor faz.
+Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever o que um programdor faz, ao menos qual a minha rotina:
+
+### Tarefas
+
+No meu trabalo utilizamos o [Redmine](http://www.redmine.org/) para gerenciar as requisições de nossos clientes e tarefas a fazer. Quando chego pela manhã olho minha lista de tarefas e onde eu parei no dia anterior.
+
+Minhas tarefas a fazer são as mais diversas: desenvolver uma nova funcionalidade, fazer manutenção e correçção no código existente são as principais atividades que desenvolvo enquanto proramador
+
+### Execução
+
+### Fim do dia e do post
