@@ -21,4 +21,10 @@ Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas se
 
 - Eu chego no meu trabalho e programo. Utilizo uma linguagem de programação e técnicas de programação para desenvolver programas.
 
-Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever o que um programdor faz.
+Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever qual a rotina de um programador.
+
+Ao chegar no trabalho pego minha lista de tarefas que são definidas geralmente por minha gerente de projetos. Utilizamos um sistema para gerenciar as tarefas que temos e ela me passa a tarefa com maior prioridade de acordo com o cronograma do projeto que trabalho.
+
+Tentamos utilizar o formato de reuniões diárias na equipe para alinharmos o que cada membro da equipe estava fazendo porém não deu muito certo. Mesmo assim gastamos boa parte da manhã em discussões e conversas sobre o produto de nosso cliente, conversamos sobre como fazer certa tarefa, como foi feita outra tarefa, qual a melhor abordadem para tal problema, etc.
+
+Com a tarefa em mãos e devidamente conversada com minha gerente e outros devesenvolvedores, traço um plano de ação para resolver o problema e começo a programar a solução deste problema/tarefa.
