@@ -19,7 +19,7 @@ Você sabe o que um presidente faz? A resposta mais comum para esta pergunta é 
 
 Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas sempre foram parecidas com esta:
 
-- Eu chego no meu trabalho e programo. Utilizo uma linguagem de programação e técnicas de programação para desenvolver programas.
+> Eu chego no meu trabalho e programo. Utilizo uma linguagem de programação e técnicas de programação para desenvolver programas.
 
 Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever qual a rotina de um programador.
 
