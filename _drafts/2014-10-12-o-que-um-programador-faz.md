@@ -2,7 +2,7 @@
 layout: post
 title: "O que um programador faz?"
 modified: 2014-10-12 19:18:05 -0300
-tags: [carreira, programador, português]
+tags: [carreira, programador]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -13,19 +13,37 @@ share: true
 
 Sempre tive curiosidade em saber como as pessoas trabalham, como gerentes, designers e todas as outras pessoas trabalham. Com programação nunca foi diferente.
 
-Minha primeira experiência profissional foi como programador. Não conhecia nenhum termo da profissão, nenhuma buzzword e muito menos como é o dia a dia de um programador.
+Minha primeira experiência profissional foi como programador. Não conhecia nenhum termo da profissão, nenhuma buzz word e muito menos como é o dia a dia de um programador.
 
 Se passaram três anos, muitas conversas com outros desenvolvedores e duas empresas de desenvolvimento. Hoje, sei o que um programador faz, não só sei como sou um programdor. Caso você não saiba o que um programador faz ou esta em dúvida de se tornar ou não um, continue lendo o texto que irei detalhar o dia a dia da profissão.
 
 ## O que um programador faz?
 
-Você sabe o que um presidente faz? A resposta mais comum para esta pergunta é "Governa o país". Definitivamente nada explicativo.
+Se você perguntar o que o presidente da república faz? A resposta mais comum e recorrente sera: "Governa o país". Definitivamente nada explicativo.
 
 Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas sempre foram parecidas com esta:
 
 > Eu chego no meu trabalho e programo. Utilizo uma linguagem de programação e técnicas de programação para desenvolver programas.
 
-Nada explicativo não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje sem enrolação, vou descrever qual a rotina de um programador.
+Não ajudou muito, não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje, sem enrolação, vou descrever qual a minha rotina como programador.
+
+Meu primerio contato profissional foi em uma empresa de e-commerce. Desenvolviamos uma plataforma de e-commerce usando Ruby on Rails.
+
+Nesta empresa, utilizavamos [métodos e frameworks ágeis](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf) para moldar nosso processo de desenvolvimento.
+
+Pela manhã tinhamos uma pequena reunião com todos da equipe, para alinharmos o que havia sido feito no dia anterior e o que será feito no dia corrente. Esta reunião diário era bem rápida não ultrapassava 15 minutos.
+
+Após a reunião começavamos a de fato programar. Nossas tarefas e afazeres eram definidos em outras cerimônias que não cabem neste artigo, caso queira saber como estas cerimônias funcionam, [confira aqui](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf).
+
+Cada programador pegava uma tarefa por vez para fazer e começava a executa-la. Algumas práticas de desenvolvimento eram utilizadas por todos o que ajuda a padronizar e manter a qualidade do cógido independente de quem estivesse desenvolvendo.
+
+Todo o código desenvolvido era armazenado em um repositório online para que a qualquer momento um membro da equipe possa acessar as alterações enviadas por outros integrantes da equipe.
+
+Este processo se repetia durante duas semanas (tempo limite para que um conjuto de tarefas estivesse finalizada). Ao término destas duas semanas apresentavámos o resultado a outros membros da equipe.
+
+Este ciclo se repetia, quinzenalmente, mês após mês, tarefa após tarefa.
+
+### Segunda empresa
 
 Ao chegar no trabalho pego minha lista de tarefas que são definidas geralmente por minha gerente de projetos. Utilizamos um sistema ([Redmine](http://www.redmine.org/)) para gerenciar as tarefas que temos e ela me passa a tarefa com maior prioridade de acordo com o cronograma do projeto que trabalho.
 
