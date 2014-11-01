@@ -69,4 +69,12 @@ No fim do dia, faço o _tracking_ do tempo gasto nas tarefas - chamamos de apont
 
 ## Conclusão
 
+O dia a dia de um programador é muito semelhante não importa a empresa. Toda empresa tem suas peculiaridades porém o cerne é o mesmo.
 
+E não se engane ao pensar que programar é algo monótono. Muito pelo contrário, cada dia é um novo dia, todos os dias, aprendemos algo novo, nos deparamos com problemas novos, novas tecnologias, etc.
+
+Programar também não é fácil, exige muito mais do que saber mecher com computador e um bom raciocionio lógico. Saber ser relacionar, conhecer algumas vertentes de negócios, ser resiliente e curioso; é o que separa os bons programadores dos  programadores mediocres, pois não basta fazer o melhor cóigo, dominar a máquina, se no fim do dia seu código não atender as necessidades de negócio do cliente  e seus usuarios.
+
+Por fim, leio bastante sobre assuntos relacionados a programação, faço cursos, assisto a palestras e programo bastante fora do trabalho tudo para me manter sempre atualizado e para fazer sempre o melhor trabalho possível todos os dias, mas acima disto tudo,faço por que gosto,porque tenho prazer de programar de bater cabeça em problemas complexos.
+
+A melhor forma de finalizar este post é dizendo que sem paixão você será somente mais um.
