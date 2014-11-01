@@ -43,10 +43,30 @@ Este processo se repetia durante duas semanas (tempo limite para que um conjuto 
 
 Este ciclo se repetia, quinzenalmente, mês após mês, tarefa após tarefa.
 
-### Segunda empresa
+### O que faço hoje
 
-Ao chegar no trabalho pego minha lista de tarefas que são definidas geralmente por minha gerente de projetos. Utilizamos um sistema ([Redmine](http://www.redmine.org/)) para gerenciar as tarefas que temos e ela me passa a tarefa com maior prioridade de acordo com o cronograma do projeto que trabalho.
+Troquei de empresa e com essa troca, novos processos e velhos hábitos surgiram.
 
-Tentamos utilizar o formato de reuniões diárias na equipe para alinharmos o que cada membro da equipe estava fazendo porém não deu muito certo. Mesmo assim gastamos boa parte da manhã em discussões e conversas sobre o produto de nosso cliente, conversamos sobre como fazer certa tarefa, como foi feita outra tarefa, qual a melhor abordadem para tal problema, etc.
+Trabalhei sozinho durante muito tempo em um produto da empresa, nele eu fazia melhorias de código, corrigia bugs e desenvolvia novas funcionalidades de acordo com as necessidades de nossos clientes. Volta e meia eu auxiliava em outros projetos da empresa.
 
-Com a tarefa em mãos e devidamente conversada com minha gerente e outros devesenvolvedores, traço um plano de ação para resolver o problema e começo a programar a solução deste problema/tarefa.
+Passado esta fase sozinho, fiz muita [programação em par](http://www.devmedia.com.br/pair-programming-vantagens-e-desvantagens-da-programacao-em-par/30537) com um outro desenvolvedor, no desenvolvimento de um projeto da empresa. Durante este tempo ulizamos diversas técnicas de [Programação Extrema](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf).
+
+Hoje trabalho no desenvolvimento de uma plataforma de Eduação à Distẫncia (EAD). Nossa equipe ´e composta por 3 desenvolvedores e uma gerente de projetos.
+
+#### Dia a dia
+
+Pela manhã, pego minha lista de tarefas que são definidas pela geretne de projetos e começo/continuo o desenvolvimento de uma delas.
+
+Durante a manhã a comunicação da equipe é predominante, hora com reuniões de pé, hora uma conversa indívidual com cada um, vamos alinhando e nos interando das tarefas a serem feitas no dia, quais as prioridades para o dia corrente, etc.
+
+Utilizamos um sistema ([Redmine](http://www.redmine.org/)) para gerenciar as tarefas que temos a fazer, é nele também que respondemos aos chamdos de suporte de nossos clientes.
+
+Com a tarefa em mãos seja de suporte ou de desenvolvimento, converso seja com a gerente ou com um outro desenvolvedor sobre ela para ter uma outra visão de uma possível solução para aquele problema. Feito isto dou inicio ao processo de codificação.
+
+A tarde a conversa com a equipe naturalmente diminui e o foco voltasse totalmente ao problema.
+
+No fim do dia, faço o _tracking_ do tempo gasto nas tarefas - chamamos de apontamento - e missão cumprida, bato o ponto e vou para casa.
+
+## Conclusão
+
+
