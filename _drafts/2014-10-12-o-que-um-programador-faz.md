@@ -2,7 +2,7 @@
 layout: post
 title: "O que um programador faz?"
 modified: 2014-10-12 19:18:05 -0300
-tags: [carreira, programador]
+tags: [carreira, programador, português]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -11,7 +11,11 @@ comments: true
 share: true
 ---
 
-Antes de começar a trabalhar com progamação sempre tive curiosidade de saber o que um programador faz. Hoje, quase três anos depois acho que descobri o que um programador faz, vem comigo e descubra você também.
+Sempre tive curiosidade em saber como as pessoas trabalham, como gerentes, designers e todas as outras pessoas trabalham. Com programação nunca foi diferente.
+
+Minha primeira experiência profissional foi como programador. Não conhecia nenhum termo da profissão, nenhuma buzzword e muito menos como é o dia a dia de um programador.
+
+Se passaram três anos, muitas conversas com outros desenvolvedores e duas empresas de desenvolvimento. Hoje, sei o que um programador faz, não só sei como sou um programdor. Caso você não saiba o que um programador faz ou esta em dúvida de se tornar ou não um, continue lendo o texto que irei detalhar o dia a dia da profissão.
 
 ## O que um programador faz?
 
