@@ -13,13 +13,13 @@ share: true
 
 Sempre tive curiosidade em saber como as pessoas trabalham, como gerentes, designers e todas as outras pessoas trabalham. Com programação nunca foi diferente.
 
-Minha primeira experiência profissional foi como programador. Não conhecia nenhum termo da profissão, nenhuma buzz word e muito menos como é o dia a dia de um programador.
+Minha primeira experiência profissional foi como programador. Não conhecia nenhum termo da profissão, nenhuma buzzword e muito menos como é o dia a dia de um programador.
 
-Se passaram três anos, muitas conversas com outros desenvolvedores e duas empresas de desenvolvimento. Hoje, sei o que um programador faz, não só sei como sou um programdor. Caso você não saiba o que um programador faz ou esta em dúvida de se tornar ou não um, continue lendo o texto que irei detalhar o dia a dia da profissão.
+Se passaram três anos, muitas conversas com outros desenvolvedores e duas empresas de desenvolvimento. Hoje, sei o que um programador faz, não só sei como sou um programador. Caso você não saiba o que um programador faz ou esta em dúvida de se tornar ou não um, continue lendo o texto que irei detalhar o dia a dia da profissão.
 
 ## O que um programador faz?
 
-Se você perguntar o que o presidente da república faz? A resposta mais comum e recorrente sera: "Governa o país". Definitivamente nada explicativo.
+Pergunte o que o presidente da república faz? A resposta mais comum e recorrente sera: "Governa o país". Definitivamente nada explicativo.
 
 Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas sempre foram parecidas com esta:
 
@@ -27,11 +27,11 @@ Sempre perguntei a amigos que já trabalhavam o que eles faziam, as respostas se
 
 Não ajudou muito, não é? Eu diria um tanto confuso. Afinal, o que um programador faz no seu dia a dia? Vamos tentar resolver esse "mistério" hoje, sem enrolação, vou descrever qual a minha rotina como programador.
 
-Meu primerio contato profissional foi em uma empresa de e-commerce. Desenvolviamos uma plataforma de e-commerce usando Ruby on Rails.
+Meu primeiro contato profissional foi em uma empresa de e-commerce. Desenvolviamos uma plataforma de e-commerce usando Ruby on Rails.
 
 Nesta empresa, utilizavamos [métodos e frameworks ágeis](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf) para moldar nosso processo de desenvolvimento.
 
-Pela manhã tinhamos uma pequena reunião com todos da equipe, para alinharmos o que havia sido feito no dia anterior e o que será feito no dia corrente. Esta reunião diário era bem rápida não ultrapassava 15 minutos.
+Pela manhã tinhamos uma pequena reunião com todos da equipe, para alinharmos o que havia sido feito no dia anterior e o que será feito no dia corrente. Esta reunião diário era bem rápida não passava 15 minutos.
 
 Após a reunião começavamos a de fato programar. Nossas tarefas e afazeres eram definidos em outras cerimônias que não cabem neste artigo, caso queira saber como estas cerimônias funcionam, [confira aqui](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf).
 
@@ -47,7 +47,7 @@ Este ciclo se repetia, quinzenalmente, mês após mês, tarefa após tarefa.
 
 Troquei de empresa e com essa troca, novos processos e velhos hábitos surgiram.
 
-Trabalhei sozinho durante muito tempo em um produto da empresa, nele eu fazia melhorias de código, corrigia bugs e desenvolvia novas funcionalidades de acordo com as necessidades de nossos clientes. Volta e meia eu auxiliava em outros projetos da empresa.
+Trabalhei sozinho durante muito tempo em um produto da empresa, nele eu fazia melhorias de código, corrigia bugs e criava novas funcionalidades de acordo com as necessidades de nossos clientes. Volta e meia eu auxiliava em outros projetos da empresa.
 
 Passado esta fase sozinho, fiz muita [programação em par](http://www.devmedia.com.br/pair-programming-vantagens-e-desvantagens-da-programacao-em-par/30537) com um outro desenvolvedor, no desenvolvimento de um projeto da empresa. Durante este tempo ulizamos diversas técnicas de [Programação Extrema](https://www.dropbox.com/s/ibl1b2lpn2giuzx/Gil%20Gomes.pdf).
 
@@ -61,7 +61,7 @@ Durante a manhã a comunicação da equipe é predominante, hora com reuniões d
 
 Utilizamos um sistema ([Redmine](http://www.redmine.org/)) para gerenciar as tarefas que temos a fazer, é nele também que respondemos aos chamdos de suporte de nossos clientes.
 
-Com a tarefa em mãos seja de suporte ou de desenvolvimento, converso seja com a gerente ou com um outro desenvolvedor sobre ela para ter uma outra visão de uma possível solução para aquele problema. Feito isto dou inicio ao processo de codificação.
+Com a tarefa em mãos seja de suporte ou de desenvolvimento, converso seja com a gerente ou com um outro desenvolvedor sobre ela para ter uma outra visão de uma possível solução para aquele problema. Feito isso, inicio ao processo de codificação.
 
 A tarde a conversa com a equipe naturalmente diminui e o foco voltasse totalmente ao problema.
 
@@ -73,8 +73,8 @@ O dia a dia de um programador é muito semelhante não importa a empresa. Toda e
 
 E não se engane ao pensar que programar é algo monótono. Muito pelo contrário, cada dia é um novo dia, todos os dias, aprendemos algo novo, nos deparamos com problemas novos, novas tecnologias, etc.
 
-Programar também não é fácil, exige muito mais do que saber mecher com computador e um bom raciocionio lógico. Saber ser relacionar, conhecer algumas vertentes de negócios, ser resiliente e curioso; é o que separa os bons programadores dos  programadores mediocres, pois não basta fazer o melhor cóigo, dominar a máquina, se no fim do dia seu código não atender as necessidades de negócio do cliente  e seus usuarios.
+Programar também não é fácil, exige muito mais do que saber mecher com computador e um bom raciocinio lógico. Saber ser relacionar, conhecer algumas vertentes de negócios, ser resiliente e curioso; é o que separa os bons programadores de  programadores mediocres, pois não basta fazer o melhor cóigo, dominar a máquina, se no fim do dia seu código não atender as necessidades de negócio do cliente  e seus usuarios.
 
-Por fim, leio bastante sobre assuntos relacionados a programação, faço cursos, assisto a palestras e programo bastante fora do trabalho tudo para me manter sempre atualizado e para fazer sempre o melhor trabalho possível todos os dias, mas acima disto tudo,faço por que gosto,porque tenho prazer de programar de bater cabeça em problemas complexos.
+Por fim, leio bastante sobre assuntos relacionados a programação, faço cursos, assisto a palestras e programo bastante fora do trabalho tudo para estar sempre atualizado e para fazer sempre o melhor trabalho possível todos os dias, mas acima disto tudo,faço por que gosto,porque tenho prazer de programar de bater cabeça em problemas complexos.
 
 A melhor forma de finalizar este post é dizendo que sem paixão você será somente mais um.
